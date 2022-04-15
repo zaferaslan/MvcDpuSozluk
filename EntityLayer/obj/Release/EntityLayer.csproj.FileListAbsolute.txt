@@ -1,0 +1,12 @@
+D:\MvcDpuSozluk\EntityLayer\bin\Release\EntityLayer.dll.config
+D:\MvcDpuSozluk\EntityLayer\bin\Release\EntityLayer.dll
+D:\MvcDpuSozluk\EntityLayer\bin\Release\EntityLayer.pdb
+D:\MvcDpuSozluk\EntityLayer\bin\Release\EntityFramework.dll
+D:\MvcDpuSozluk\EntityLayer\bin\Release\EntityFramework.SqlServer.dll
+D:\MvcDpuSozluk\EntityLayer\bin\Release\EntityFramework.xml
+D:\MvcDpuSozluk\EntityLayer\bin\Release\EntityFramework.SqlServer.xml
+D:\MvcDpuSozluk\EntityLayer\obj\Release\EntityLayer.csproj.AssemblyReference.cache
+D:\MvcDpuSozluk\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+D:\MvcDpuSozluk\EntityLayer\obj\Release\EntityLayer.csproj.CopyComplete
+D:\MvcDpuSozluk\EntityLayer\obj\Release\EntityLayer.dll
+D:\MvcDpuSozluk\EntityLayer\obj\Release\EntityLayer.pdb

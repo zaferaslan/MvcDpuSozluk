@@ -1,0 +1,283 @@
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\MvcDpuSozluk.dll.config
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\MvcDpuSozluk.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\MvcDpuSozluk.pdb
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csc.exe
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csc.exe.config
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csc.rsp
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csi.exe
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csi.exe.config
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csi.rsp
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.AppContext.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Collections.Immutable.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Console.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Globalization.Calendars.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.IO.Compression.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.IO.FileSystem.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Net.Http.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Net.Sockets.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Reflection.Metadata.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.ValueTuple.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Xml.XPath.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\vbc.exe
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\vbc.exe.config
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\vbc.rsp
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\VBCSCompiler.exe
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\VBCSCompiler.exe.config
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\Antlr3.Runtime.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\Microsoft.Web.Infrastructure.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\Newtonsoft.Json.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Helpers.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Mvc.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Optimization.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Razor.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.Deployment.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.Razor.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\WebGrease.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Helpers.xml
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Mvc.xml
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Optimization.xml
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Razor.xml
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.xml
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.Deployment.xml
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.Razor.xml
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\Newtonsoft.Json.xml
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\Antlr3.Runtime.pdb
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\obj\Debug\MvcDpuSozluk.csproj.AssemblyReference.cache
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\obj\Debug\MvcDpuSozluk.csproj.CoreCompileInputs.cache
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\obj\Debug\MvcDpuSozluk.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\obj\Debug\MvcDpuSozluk.pdb
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\BusinessLayer.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\DataAccessLayer.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\EntityLayer.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\EntityFramework.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\BusinessLayer.pdb
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\BusinessLayer.dll.config
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\DataAccessLayer.pdb
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\DataAccessLayer.dll.config
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\EntityLayer.pdb
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\EntityLayer.dll.config
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\MvcDpuSozluk\bin\EntityFramework.xml
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\MvcDpuSozluk.dll.config
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\MvcDpuSozluk.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\MvcDpuSozluk.pdb
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csc.exe
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csc.exe.config
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csc.rsp
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csi.exe
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csi.exe.config
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csi.rsp
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.AppContext.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Collections.Immutable.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Console.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Globalization.Calendars.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.IO.Compression.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.IO.FileSystem.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Net.Http.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Net.Sockets.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Reflection.Metadata.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.ValueTuple.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Xml.XPath.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\vbc.exe
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\vbc.exe.config
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\vbc.rsp
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\VBCSCompiler.exe
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\VBCSCompiler.exe.config
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\Antlr3.Runtime.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\BusinessLayer.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\DataAccessLayer.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\EntityFramework.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\EntityFramework.SqlServer.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\EntityLayer.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\Microsoft.Web.Infrastructure.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\Newtonsoft.Json.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Helpers.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Mvc.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Optimization.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Razor.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.Deployment.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.Razor.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\WebGrease.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\BusinessLayer.pdb
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\BusinessLayer.dll.config
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\DataAccessLayer.pdb
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\DataAccessLayer.dll.config
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\EntityLayer.pdb
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\EntityLayer.dll.config
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\EntityFramework.xml
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\EntityFramework.SqlServer.xml
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Helpers.xml
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Mvc.xml
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Optimization.xml
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Razor.xml
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.xml
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.Deployment.xml
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.Razor.xml
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\Newtonsoft.Json.xml
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\Antlr3.Runtime.pdb
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MvcDpuSozluk\MvcDpuSozluk\obj\Debug\MvcDpuSozluk.csproj.AssemblyReference.cache
+D:\MvcDpuSozluk\MvcDpuSozluk\obj\Debug\MvcDpuSozluk.csproj.CoreCompileInputs.cache
+D:\MvcDpuSozluk\MvcDpuSozluk\obj\Debug\MvcDpuSozluk.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\obj\Debug\MvcDpuSozluk.pdb
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\FluentValidation.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\FluentValidation.xml
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\PagedList.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\PagedList.Mvc.dll
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\PagedList.xml
+D:\MvcDpuSozluk\MvcDpuSozluk\bin\PagedList.Mvc.xml
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\MvcDpuSozluk.dll.config
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\MvcDpuSozluk.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\MvcDpuSozluk.pdb
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csc.exe
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csc.exe.config
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csc.rsp
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csi.exe
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csi.exe.config
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\csi.rsp
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.AppContext.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Collections.Immutable.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Console.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Globalization.Calendars.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.IO.Compression.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.IO.FileSystem.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Net.Http.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Net.Sockets.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Reflection.Metadata.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.ValueTuple.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Xml.XPath.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\vbc.exe
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\vbc.exe.config
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\vbc.rsp
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\VBCSCompiler.exe
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\roslyn\VBCSCompiler.exe.config
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\Antlr3.Runtime.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\BusinessLayer.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\DataAccessLayer.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\EntityFramework.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\EntityFramework.SqlServer.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\EntityLayer.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\FluentValidation.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\Microsoft.Web.Infrastructure.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\Newtonsoft.Json.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\PagedList.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\PagedList.Mvc.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Helpers.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Mvc.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Optimization.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Razor.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.Deployment.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.Razor.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\WebGrease.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\BusinessLayer.pdb
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\BusinessLayer.dll.config
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\DataAccessLayer.pdb
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\DataAccessLayer.dll.config
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\EntityLayer.pdb
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\EntityLayer.dll.config
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\EntityFramework.xml
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\EntityFramework.SqlServer.xml
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\FluentValidation.xml
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\PagedList.xml
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\PagedList.Mvc.xml
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Helpers.xml
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Mvc.xml
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Optimization.xml
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.Razor.xml
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.xml
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.Deployment.xml
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\System.Web.WebPages.Razor.xml
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\Newtonsoft.Json.xml
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\Antlr3.Runtime.pdb
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\obj\Debug\MvcDpuSozluk.csproj.AssemblyReference.cache
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\obj\Debug\MvcDpuSozluk.csproj.CoreCompileInputs.cache
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\obj\Debug\MvcDpuSozluk.dll
+F:\Cd Atılacaklar\MvcDpuSozluk-Proje Kodları\MvcDpuSozluk\MvcDpuSozluk\obj\Debug\MvcDpuSozluk.pdb
