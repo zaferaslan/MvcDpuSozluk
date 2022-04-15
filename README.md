@@ -1,1 +1,2 @@
 # MvcDpuSozluk
+DPU Sözlük, Dumlupınar Üniversitesi’nde öğrenim görmüş veya öğrenim görmekte olan öğrencilerin tecrübelerini, ilgi alanlarını, Kütahya ilinde yapılabilecek aktiviteleri, gezilebilecek yerleri, kısacası şehri tanıtabileceği aynı zamanda da sadece Dumlupınar Üniversitesi ve Kütahya ili ile sınırlı kalmayıp normal bir katılımcı sözlük olarak interaktif ilerleyen bir platform yapılması amacıyla geliştirilen ve geliştirilmesi devam eden katılımcı sözlük uygulamasıdır.
